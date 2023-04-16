@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 using SharpDX;
 using ExileCore.Shared.SomeMagic;
+using Color = SharpDX.Color;
 
 namespace AltarHelper
 {
